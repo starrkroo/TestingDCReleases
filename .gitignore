@@ -1,0 +1,4 @@
+node_modules
+dist
+second
+electron-builder.yml
